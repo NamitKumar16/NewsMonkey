@@ -38,7 +38,6 @@ export class Navbar extends Component {
                     About
                   </a>
                 </li>
-                
               </ul>
             </div>
           </div>
